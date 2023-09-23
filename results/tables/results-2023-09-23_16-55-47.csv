@@ -1,0 +1,4 @@
+graph,mean_squared_error_train,mean_squared_error_test,mean_absolute_error_train,mean_absolute_error_test,r2_train,r2_test,preview_window_size,lose_function,optimizator,neurons_qty_on_temporal_layer,neurons_qty_on_dense_layer,epochs,lote,show_results,test_id
+./results/images/test-69613f1f1923.png,787.1489523120439,526.7496939919141,14.220257126671457,17.234765258789064,0.9723968832630218,0.9834477815251692,100,mean_squared_error,adam,10,50,50,50,False,69613f1f1923
+./results/images/test-69613f1f1923.png,578.8149181312508,208.08758128713336,10.438947660087099,10.315215841542118,0.9797025763581939,0.9934611996045761,100,mean_absolute_error,adam,20,50,50,50,False,69613f1f1923
+./results/images/test-69613f1f1923.png,2833.743908270388,1839.6999748001963,32.00338866555011,34.74742920452616,0.9006285104325716,0.9421905389630831,100,binary_crossentropy,adam,30,50,50,50,False,69613f1f1923
